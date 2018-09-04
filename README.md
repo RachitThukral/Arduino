@@ -1,2 +1,0 @@
-# Arduino
-Programming using Arduino
